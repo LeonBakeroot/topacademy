@@ -33,7 +33,7 @@
 
   &__highlighted-text {
     font-weight: 800;
-    color:$color-blue-normal;
+    color:$color-purple-light;
   }
   
   &__link {
@@ -66,7 +66,7 @@
       padding: 5px 15px 4px;
       border-radius: 50px;
       font-style: normal;
-      background-color: $color-blue-ultra-light;
+      background-color: $color-purple-light;
       
       &:before {
         display: inline-block;
